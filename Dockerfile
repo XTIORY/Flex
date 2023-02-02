@@ -1,4 +1,4 @@
-FROM jepthoniq/jepthon:slim-buster
+FROM XTIORY/Flex:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/XTIORY/Flex /root/jepthon
